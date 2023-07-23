@@ -6,7 +6,7 @@ weight = 3
 {{<section title="New AI Technology" >}}
 Using cutting-edge AI technology presented us with a significant challenge. 
 It required considerable time and effort to thoroughly research Prompt Engineering, GPT models, 
-Langchain framework and grasp these concepts, ensuring a solid understanding for effective 
+LangChain framework and grasp these concepts, ensuring a solid understanding for effective 
 integration into our project.
 {{</section>}}
 
@@ -16,13 +16,13 @@ updates in LangChain versions, OpenAI function calls, GPT models, and Vector Dat
 This necessitated continuous monitoring and adaptation to ensure compatibility.
 {{</section>}}
 
-{{<section title="Accessing Idealo's Database" >}}
+{{<section title="Accessing idealo's Database" >}}
 The process of gaining access to Idealo's database and API was not as fast as we expected, 
 which did impact the early stages of development. Despite the delays, we persevered and 
 established effective communication to overcome this obstacle.
 {{</section>}}
 
-{{<section title="Image similarity search Vector DB" >}}
+{{<section title="Image Similarity Search with Vector Database" >}}
 Developing an image similarity search with Vector DB posed a significant challenge for us, 
 due to limited time and various methods considered to retrieve similar images from the database. 
 Creating custom scripts to retrieve extensive product metadata and embedding data effectively 
