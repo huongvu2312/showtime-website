@@ -29,7 +29,7 @@ Creating custom scripts to retrieve extensive product metadata and embedding dat
 in our vector database introduced additional complexities.
 {{</section>}}
 
-{{<section title="Filter products" >}}
+{{<section title="Products search and filter" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nulla facilisis neque id vulputate malesuada. 
 Quisque dignissim finibus urna sed sagittis.
